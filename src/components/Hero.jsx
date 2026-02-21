@@ -27,7 +27,7 @@ export function Hero() {
 
           {/* Subtitle */}
           <p className="mx-auto mb-10 max-w-2xl text-lg text-muted-foreground sm:text-xl animate-fade-in" style={{ animationDelay: "0.5s" }}>
-            Connect surplus food with those who need it. FoodSaver helps donors reduce waste, recipients access nutrition, and analysts track impact.
+            Connect surplus food with those who need it. FoodSecurity helps donors reduce waste, recipients access nutrition, and analysts track impact.
           </p>
 
           {/* CTA Buttons */}

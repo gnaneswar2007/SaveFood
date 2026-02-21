@@ -38,7 +38,7 @@ export function Footer() {
               <div className="flex h-9 w-9 items-center justify-center rounded-lg gradient-primary">
                 <Leaf className="h-5 w-5 text-primary-foreground" />
               </div>
-              <span className="text-lg font-bold text-foreground">FoodSaver</span>
+              <span className="text-lg font-bold text-foreground">FoodSecurity</span>
             </Link>
             <p className="mt-4 max-w-xs text-sm text-muted-foreground">
               Fighting food waste and improving food security through technology and community.
@@ -69,7 +69,7 @@ export function Footer() {
 
         <div className="mt-12 border-t pt-8 text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} FoodSaver. All rights reserved. Made with 💚 for a sustainable future.
+            © {new Date().getFullYear()} FoodSecurity. All rights reserved. Made with 💚 for a sustainable future.
           </p>
         </div>
       </div>

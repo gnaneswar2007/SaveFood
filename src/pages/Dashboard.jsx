@@ -80,7 +80,7 @@ const Dashboard = () => {
           >
             <Menu className="h-5 w-5" />
           </Button>
-          <span className="font-semibold text-foreground">FoodSaver</span>
+          <span className="font-semibold text-foreground">FoodSecurity</span>
         </div>
 
         <div className="p-4 sm:p-6 lg:p-8">

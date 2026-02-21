@@ -73,7 +73,7 @@ export function DashboardSidebar({
               <Leaf className="h-5 w-5 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-lg font-bold text-sidebar-foreground">FoodSaver</h1>
+              <h1 className="text-lg font-bold text-sidebar-foreground">FoodSecurity</h1>
               <p className="text-xs text-muted-foreground">Reduce Waste, Feed More</p>
             </div>
           </Link>

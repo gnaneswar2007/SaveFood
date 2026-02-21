@@ -270,7 +270,7 @@ export default function Auth() {
           <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-white/20">
             <Leaf className="h-5 w-5 text-white" />
           </div>
-          <span className="text-xl font-bold text-white">FoodSaver</span>
+          <span className="text-xl font-bold text-white">FoodSecurity</span>
         </Link>
 
         <div className="relative z-10 space-y-6">
@@ -300,7 +300,7 @@ export default function Auth() {
         </div>
 
         <p className="relative z-10 text-sm text-white/60">
-          © {new Date().getFullYear()} FoodSaver. All rights reserved.
+          © {new Date().getFullYear()} FoodSecurity. All rights reserved.
         </p>
       </div>
 
@@ -311,7 +311,7 @@ export default function Auth() {
           <div className="flex h-9 w-9 items-center justify-center rounded-lg gradient-primary">
             <Leaf className="h-5 w-5 text-primary-foreground" />
           </div>
-          <span className="text-lg font-bold text-foreground">FoodSaver</span>
+          <span className="text-lg font-bold text-foreground">FoodSecurity</span>
         </div>
 
         <div className="w-full max-w-md">
@@ -351,7 +351,7 @@ export default function Auth() {
             <form onSubmit={handleLogin} className="space-y-5">
               <div className="space-y-1.5">
                 <h1 className="text-2xl font-bold text-foreground">Welcome back</h1>
-                <p className="text-sm text-muted-foreground">Sign in to your FoodSaver account</p>
+                <p className="text-sm text-muted-foreground">Sign in to your FoodSecurity account</p>
               </div>
 
               <div className="space-y-4">
@@ -465,7 +465,7 @@ export default function Auth() {
             <form onSubmit={handleSignUp} className="space-y-5">
               <div className="space-y-1.5">
                 <h1 className="text-2xl font-bold text-foreground">Create your account</h1>
-                <p className="text-sm text-muted-foreground">Choose your role and join the FoodSaver community</p>
+                <p className="text-sm text-muted-foreground">Choose your role and join the FoodSecurity community</p>
               </div>
 
               {/* Role Selection */}
