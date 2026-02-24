@@ -4,7 +4,7 @@ A full-stack web application that connects surplus food donors with recipients, 
 
 ## GitHub Repository
 
-**URL**: https://github.com/Ganeshmamidala/Food-Security-project
+
 
 ## Tech Stack
 
@@ -24,11 +24,10 @@ A full-stack web application that connects surplus food donors with recipients, 
 ## Getting Started
 
 ```sh
-# Clone the repository
-git clone https://github.com/Ganeshmamidala/Food-Security-project.git
+
 
 # Navigate to project directory
-cd Food-Security-project
+cd SaveFood
 
 # Install dependencies
 npm install
